@@ -3,7 +3,7 @@ package main
 import (
 	"seaside1234/work/packageinapplication1"
 	"seaside1234/work/internal/Innerpackage1"
-	"seaside1234/work/packageinapplication1/packageinapplication1module"
+	"seaside1234/work/packageinapplication1/modulepkg"
 )
 
 func main() {
