@@ -2,7 +2,7 @@ package CmdOs
 
 import (
 	"os"
-        "seaside1234/work/internal/Innerpackage1"
+	"seaside1234/work/internal/Innerpackage1"
 	"github.com/sirupsen/logrus"
 )
 
